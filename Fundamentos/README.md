@@ -5,6 +5,9 @@
 1. Mostrar el texto: "¡Hola, Mundo!"
 2. Mostrar su número favorito
 3. Mostrar un booleano
+4. Declarar 3 constantes
+    Asignar valores a cada constante asi: caracter, número y booleano respectivamente
+    Leer y Mostrar el valor de cada constante
 ---
 ### Getting Started
 
